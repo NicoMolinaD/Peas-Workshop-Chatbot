@@ -1,3 +1,5 @@
+#Nicolas Molina Diaz  - T00064715
+
 from pyDatalog import pyDatalog
 import re
 import sys
